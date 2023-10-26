@@ -5,218 +5,96 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home Page</title>
-    <style>
-      .username {
-        font-size: 18px;
-        border-radius: 10px;
-        padding: 15px;
-        width: 300px;
-      }
-
-      .username_label {
-        font-size: large;
-
-      }
-
-      .password {
-        font-size: 18px;
-        border-radius: 10px;
-        padding: 15px;
-        width: 300px;
-        ;
-      }
-
-      .label_password {
-        font-size: large;
-      }
-
-
-      .password_confirmation {
-        font-size: 18px;
-        border-radius: 10px;
-        padding: 15px;
-        width: 300px;
-      }
-
-      .confirmation {
-        font-size: 18px;
-        border-radius: 10px;
-        padding: 15px;
-
-      }
-
-      .password_confirmation {
-        font-size: 18px;
-        border-radius: 10px;
-        padding: 15px;
-        width: 300px;
-      }
-    </style>
+   <link rel="stylesheet" href="style.css">
   </head>
 
   <body>
+    <style>
+    
+  </style>
 
 
-
+    
     <header>
-
+       
       <center>
+          <span class="head2">
+           Welcome
+       </span>
+      </center>
+    
+   </header>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> 
+   <section>
+       
+   <center>
+       <form action='page2.html'  >
 
         <div>
-          <span class="sign in" style="  color: cornflowerblue;  font-size:60px;  ">
-            Sing in
-          </span>
-        </div>
-      </center>
-    </header>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-
-    <section>
-      <center>
-        <form method="get">
-          <div>
-            <label class="username_label">
-
-              Username
-            </label>
-            <br>
-            <br>
-
-          </div>
-
-
-          <input type="text" required placeholder="Write your Username" class="username" autofocus
-            title="Enter Your Username" name="un">
-
-
-
-
+          <label class="username_label" name="un"   >
+  
+            Username
+          </label>
           <br>
           <br>
+  
+   
 
-          <div>
-            <label class="Email_label">
-
-              Email
-            </label>
-            <br>
-            <br>
-
-
-          </div>
-
-
-          <input type="text" required placeholder="Write your email" class="username" title="Enter Your Email"
-            name="email">
+        <input type="text"
+         class="username" 
+         placeholder="Enter Your Username"
+         title="Enter Your Username"
+         name="os"
+         required
+         
+         />
+       
 
 
+          
+         <br>
+         <br>
 
-          <br>
-          <br>
-          <div>
-            <div>
-              <label class="label_password">
+         <div>
+           <label class="Email_label" >
 
-                password
-              </label>
-
-
-            </div>
-            <br>
-            <div>
-
-              <input type="password" required placeholder="Write your password" class="password"
-                title="Make a complex Password" maxlength="10" minlength="4" name="password">
-
-            </div>
-          </div>
-
-          <br>
+             Email
+           </label>
+           <br>
+           <br>
 
 
-
-          <div>
-            <div>
-              <label class="confirmation">
-
-                Confirmation
-              </label>
+         </div>
 
 
-            </div>
-            <br>
-            <div>
+         <input type="email"
+          required 
+          placeholder="Write your email"
+           class="username"
+            title="Enter Your Email"
+          
 
-              <input type="password" required placeholder="confirm your password" class="password_confirmation"
-                title="Confirm Your Password" maxlength="10" minlength="4" name="confirmation">
+           name="name"
+          
+           >
 
-            </div>
-          </div>
+               <br>
+               <br>
+               <br>
+           <input type="submit" name="submit" id="sub" value="Next" class="sub">
+     &emsp;
+   
+       </form>
+    </center>
+   
 
-          <br>
-          <br>
-          <div>
-
-            <div>
-              <div>
-                <label>
-                  Your Favorite Color
-                </label>
-              </div>
-              <br>
-              <div>
-
-                <input type="color" name="Favorite color" title="Choose your favorite color" />
-
-              </div>
-            </div>
-            <br>
-
-            <div>
-              <div>
-                <label>
-                  Your age
-                </label>
-              </div>
-              <br>
-              <div>
-
-                <input type="number" name="year" title="Choose an year" min="1900" max="2030" step="1"
-                  placeholder="yyyy">
-
-                <input type="number" name="month" title="Choose an month" min="1" max="12" step="1" placeholder="yy">
-                <input type="number" name="day" title="Choose an day" min="1" max="32" step="1" placeholder="y">
-
-
-              </div>
-            </div>
-            <br>
-
-            <div>
-
-              <input type="submit" class="sub">
-
-            </div>
-          </div>
-
-
-          </div>
-
-
-        </form>
-
-
-
-
-
-
-      </center>
-      <h1>hello world</h1>
-    </section>
+   </section>
 
   </body>
 

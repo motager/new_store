@@ -1,0 +1,79 @@
+
+/* index.html */
+.username {
+    font-size: 18px;
+    border-radius: 10px;
+    padding: 15px;
+    width: 300px;
+  }
+
+  .username_label {
+    font-size: large;
+
+  }
+  .head2{
+    font-size:60px;
+    
+color: cornflowerblue;
+
+  }
+  .sub{
+font-size: larger;
+  }
+  .rest{
+    font-size: larger;
+  }
+
+
+  
+  .head3{
+
+    font-size:60px;
+    
+    color: cornflowerblue;
+}
+
+/* page 2 */
+
+
+.password {
+font-size: 18px;
+border-radius: 10px;
+padding: 15px;
+width: 300px;
+;
+}
+
+.label_password {
+font-size: large;
+}
+
+
+.password_confirmation {
+font-size: 18px;
+border-radius: 10px;
+padding: 15px;
+width: 300px;
+}
+
+.confirmation {
+font-size: 18px;
+border-radius: 10px;
+padding: 15px;
+
+}
+.password_submit{
+font-size: larger;
+}
+
+/* page3 */
+
+.head4{
+    font-size:60px;
+          
+          color: cornflowerblue;
+  }
+  .div_age{
+      font-size: x-large;
+  
+  }
