@@ -75,5 +75,19 @@ font-size: larger;
   }
   .div_age{
       font-size: x-large;
+      
   
+  }
+
+  .select3{
+
+    padding: 9.5px;
+  
+  }
+
+  .end{
+    font-size: 50px;
+   text-align: center;
+   margin:auto
+
   }
