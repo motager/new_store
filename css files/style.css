@@ -1,0 +1,87 @@
+.Registration {
+
+  font-size: 60px;
+  text-align: center;
+  color: cornflowerblue;
+  margin: 30px;
+
+}
+
+.div1 {
+  background-color: rgb(245, 245, 245);
+  border-radius: 20px;
+  border-style: groove;
+
+  padding: 60px;
+  margin-left: 600px;
+  margin-right: 600px;
+}
+
+.First_Name {
+
+  font-size: 18px;
+
+  border-radius: 10px;
+
+  padding: 15px;
+
+  width: 300px;
+
+  margin-bottom: 40px;
+
+}
+
+.label_First_Name {
+
+  font-size: large;
+
+
+
+
+}
+
+.Last_Name {
+
+  font-size: 18px;
+
+  border-radius: 10px;
+
+  padding: 15px;
+
+  width: 300px;
+
+  margin-bottom: 40px;
+
+}
+
+.label_Last_Name {
+
+  font-size: large;
+
+
+}
+
+.Nick_Name {
+
+  font-size: 18px;
+
+  border-radius: 10px;
+
+  padding: 15px;
+
+  width: 300px;
+
+  margin-bottom: 40px;
+
+}
+
+.label_Nick_Name {
+
+  font-size: large;
+
+
+}
+
+.sub {
+  font-size: larger;
+}
