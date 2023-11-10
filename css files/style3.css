@@ -11,8 +11,10 @@
   border-style: groove;
 
   padding: 60px;
-  margin-left: 600px;
-  margin-right: 600px;
+  
+  margin-left: 500px;
+  margin-right: 500px; 
+  margin-bottom: 50.5px; 
 }
 
 .label_password {
