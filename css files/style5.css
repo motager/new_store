@@ -1,6 +1,74 @@
- 
- .end {
-          font-size: 50px;
-          text-align: center;
-          margin: 30px;
-        }
+.div_book_store {
+
+  padding: 60px;
+    margin: 60px;
+    text-align: center;
+
+}
+
+.book_store {
+
+  font-size: 60px;
+
+}
+
+.bookstore {
+
+  text-align: center;
+
+
+
+}
+
+.FSD {
+/* Full Stak Development */
+  text-align: center;
+margin: 30px;
+margin-top: 40xp;
+margin-bottom: 60xp;
+font-size: 40px;
+}
+
+.frontend_div {
+
+  background-color: #edebeb;
+  border-radius: 10px;
+  padding: 40px;
+  padding-bottom: 150px;
+
+  
+  margin-right: 70%;
+  margin-left: 5%;
+  margin-bottom: 20px;
+  text-align: center;
+  
+}
+
+.frontend {
+
+  width: 150px;
+  text-align: center;
+
+}
+
+.Backend_div {
+
+  background-color: #edebeb;
+  border-radius: 10px;
+  padding: 40px;
+  padding-bottom: 150px;
+
+  
+  margin-right: 70%;
+  margin-left: 5%;
+  margin-bottom: 20px;
+  text-align: center;
+  
+}
+
+.Backend {
+
+  width: 150px;
+  text-align: center;
+
+}
