@@ -9,7 +9,7 @@
 .F {
 
     font-size: 60px;
-   
+
 
 }
 
@@ -33,7 +33,7 @@
     background-color: #edebeb;
     border-radius: 10px;
     padding: 60px;
-    
+
     margin-right: 10%;
     margin-left: 5%;
     margin-bottom: 20px;
@@ -44,7 +44,7 @@
     background-color: #edebeb;
     border-radius: 10px;
     padding: 60px;
-    
+
     margin-right: 10%;
     margin-left: 5%;
     margin-bottom: 20px;
@@ -55,16 +55,46 @@
     background-color: #edebeb;
     border-radius: 10px;
     padding: 60px;
-    
+
     margin-right: 10%;
     margin-left: 5%;
     margin-bottom: 20px;
 }
 
-a:visited{
+a:visited {
 
     color: rgb(108, 18, 172);
 }
+
+.a_html {
+
+
+
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 500;
+
+
+
+}
+
+.a_Css {
+
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 500;
+
+}
+
+
+.a_JS {
+
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 500;
+
+}
+
 
 .p1 {
 
@@ -91,8 +121,8 @@ footer {
     background-color: #ffeaea;
     border-radius: 10px;
     padding: 30px;
-    
-    
+
+
 
 }
 
@@ -104,14 +134,11 @@ footer {
 
 .end2 {
 
-    margin-left: 60px; 
+    margin-left: 60px;
 
 }
 
 a {
 
     text-decoration: none;
-    font-size: 25px;
-    font-weight: 500;
-  
-  }
+}
